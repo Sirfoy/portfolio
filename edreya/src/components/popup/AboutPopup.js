@@ -17,8 +17,8 @@ const AboutPopup = ({ open, close, aboutData }) => {
           <div className="left_inner">
             <div className="author">
               <div className="avatar_image">
-                <img src="/divine.png" alt="" />
-                <div className="main" data-img-url="/divine.png" />
+                <img src="divine.png" alt="" />
+                <div className="main" data-img-url="divine.png" />
               </div>
               <div className="short">
                 <h3 className="name">
@@ -323,7 +323,7 @@ const AboutPopup = ({ open, close, aboutData }) => {
                       </div>
                       <div className="details">
                         <div className="image">
-                          <div className="main" data-img-url="/lotanna.jpeg" />
+                          <div className="main" data-img-url="lotanna.jpeg" />
                         </div>
                         <div className="info">
                           <h3>lotanna Macfoy</h3>

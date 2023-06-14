@@ -61,7 +61,7 @@ const Settings = () => {
               href="#"
               onClick={() => changeCursor("hide")}
             >
-              <img className="svg" src="arrow.svg" alt="" />
+              <img className="svg" src="arrow.svg" alt="arrow" />
             </a>
           </li>
         </ul>

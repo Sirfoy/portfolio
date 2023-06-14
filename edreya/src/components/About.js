@@ -56,10 +56,10 @@ const aboutData = {
     },
   ],
   partnersLogos: [
-    "/buzzblack.png",
+    "buzzblack.png",
     "newjay.png",
     "AveryDavis.png",
-    "/sirfoylogo.png",
+    "sirfoylogo.png",
   ],
 };
 
@@ -77,8 +77,8 @@ const About = () => {
           <div className="edrea_tm_about">
             <div className="left">
               <div className="image">
-                <img src="/divine.png" alt="profil" />
-                <div className="main" data-img-url="/divine.png" />
+                <img src="divine.png" alt="profil" />
+                <div className="main" data-img-url="divine.png" />
               </div>
             </div>
             <div className="right">
